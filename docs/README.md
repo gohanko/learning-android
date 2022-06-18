@@ -2,4 +2,4 @@
 Simple Dice Roller app based on Google's "Developing Android Apps with Kotlin" Udacity Course.
 
 ## Screenshot
-![](./app_screenshot.png =200x200)
+<img src="app_screenshot.png" alt="drawing" width="200"/>
