@@ -48,7 +48,7 @@ fun GreetingText(name: String, from: String, modifier: Modifier = Modifier) {
     ) {
         Text(
             text = "Happy Birthday $name!",
-            fontSize = 100.sp,
+            fontSize = 90.sp,
             lineHeight = 116.sp,
             textAlign = TextAlign.Center
         )
