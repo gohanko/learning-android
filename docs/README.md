@@ -1,4 +1,4 @@
-# android-happybirthday
+# ComposeHappyBirthday
 A happy birthday application written using Kotlin and Compose.
 
 ![Happy Birthday App Screenshot](/docs/Screenshot_20240302_235647.png)
