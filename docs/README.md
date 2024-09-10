@@ -1,4 +1,4 @@
-# ComposeDiceRoller
+# compose-dice-roller
 A dice roller application written using Kotlin and Jetpack Compose.
 
 <img src="/docs/Screenshot_20240303_171448.png" height="480">
