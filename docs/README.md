@@ -1,4 +1,4 @@
-# ComposeHappyBirthday
+# compose-happy-birthday
 A happy birthday application written using Kotlin and Jetpack Compose.
 
 <img src="/docs/Screenshot_20240302_235647.png" height="480">
