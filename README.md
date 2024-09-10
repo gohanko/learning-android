@@ -1,4 +1,4 @@
-# compose-affirmations
+# Affirmations
 An app that list affirmations written using Kotlin and Jetpack Compose.
 
 Learnt how to:
